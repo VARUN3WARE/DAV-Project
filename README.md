@@ -18,7 +18,8 @@ The following visualizations were used to explore and analyze the data:
 2. **Stacked Bar Plot**: To show relative Wi-Fi and mobile network signal strengths across wings.
 3. **Density Plot**: To visualize the distribution of signal strengths.
 4. **Cumulative Distribution Function (CDF)**: To show the cumulative probability of signal strengths.
-5. **Contour Plot**: To illustrate the spatial distribution of Wi-Fi signal strength across wings.
+5. **Contour Plot**: To illustrate the spatial distribution of Wi-Fi signal strength across wings..
+6. 
 
 ## Key Insights
 
